@@ -1,0 +1,27 @@
+{
+  "name": "@seannyphoenix/clear-date-clock-js",
+  "version": "0.1.0",
+  "description": "Simple digital clock for the browser, using Clear Date.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeannyPhoenix/clear-date-clock-js.git"
+  },
+  "keywords": [
+    "date",
+    "clock",
+    "clear date",
+    "time",
+    "js",
+    "browser"
+  ],
+  "author": "Seanny Phoenix <seannyphoenix@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeannyPhoenix/clear-date-clock-js/issues"
+  },
+  "homepage": "https://github.com/SeannyPhoenix/clear-date-clock-js#readme"
+}
